@@ -1,0 +1,41 @@
+/*styles.css*/
+
+h1, p { 
+    margin-left: 50px;
+} 
+h1 { 
+    font-size: 70px;
+} 
+p { 
+    font-size: 30px;
+} 
+span { 
+    color: rgb(0, 247, 255);
+} 
+a { 
+    text-decoration: none;
+} 
+
+/* Navigation bar */
+nav { 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(86, 219, 97);
+} 
+nav ul li { 
+    color: rgb(0, 15, 80);
+    padding: 10px;
+    list-style-type: none;
+    display: inline;
+    border: 2px solid rgb(62, 150, 74);
+    border-radius: 5px;
+    
+    
+}
+
+/* Images */
+img { 
+    height: 600px;
+    width: 1000px;
+} 

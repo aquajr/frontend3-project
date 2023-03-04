@@ -30,12 +30,14 @@ nav ul li {
     display: inline;
     border: 2px solid rgb(62, 150, 74);
     border-radius: 5px;
-    
-    
 }
+nav ul li:hover {
+    background-color: pink;
+  }
 
 /* Images */
 img { 
-    height: 600px;
-    width: 1000px;
+    height: 300px;
+    width: 300px;
+    margin-left: 50px;
 } 
